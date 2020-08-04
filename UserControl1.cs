@@ -32,7 +32,7 @@ namespace asistent_virtual
 
         List<string> coddd = new List<string>();
 
-        //ChromiumWebBrowser browser = new ChromiumWebBrowser(html1);
+        
 
         static string html1 = "google.ro";
         string rezultat = string.Empty;
@@ -98,7 +98,7 @@ namespace asistent_virtual
         List<string> videos = new List<string>();
         List<string> channels = new List<string>();
         List<string> playlists = new List<string>();
-        Console.WriteLine("merge");
+        
 
         List<Label> rez = new List<Label> { label30, label31, label32 };
 
@@ -117,7 +117,7 @@ namespace asistent_virtual
             }
         }
 
-        Console.WriteLine(String.Format("Videos:\n{0}\n", string.Join("\n", videos)));
+        
 
 
     }
@@ -137,8 +137,7 @@ namespace asistent_virtual
         }
 
         rezultat = adresa_baza + coddd[0];
-        Console.WriteLine(coddd[0]);
-        Console.WriteLine(rezultat);
+        
         aux.Load(rezultat);
 
 
@@ -155,7 +154,7 @@ namespace asistent_virtual
         }
 
         rezultat = adresa_baza + coddd[1];
-        Console.WriteLine(coddd[1]);
+        
         aux.Load(rezultat);
 
     }
