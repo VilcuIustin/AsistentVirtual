@@ -1,4 +1,6 @@
 # AsistentVirtual
+## Descriere
+
 Un simplu asistent virtual care arata vremea bazata pe locatia actuala si care poate pune muzica de pe YouTube.
 
   **Acesta se bazeaza pe framework-urile si API-urile:**
@@ -10,11 +12,17 @@ Un simplu asistent virtual care arata vremea bazata pe locatia actuala si care p
 
 
 ## Poze
-
+### Meniul
 ![alt text](https://github.com/VilcuIustin/AsistentVirtual/blob/master/Photos/Screenshot_1.png)
+
+### Vremea
 ![alt text](https://github.com/VilcuIustin/AsistentVirtual/blob/master/Photos/Screenshot_2.png)
+
+### Muzica
 ![alt text](https://github.com/VilcuIustin/AsistentVirtual/blob/master/Photos/Screenshot_3.png)
+
 ![alt text](https://github.com/VilcuIustin/AsistentVirtual/blob/master/Photos/Screenshot_4.png)
+
 ![alt text](https://github.com/VilcuIustin/AsistentVirtual/blob/master/Photos/Screenshot_5.png)
 
 ## Contact
