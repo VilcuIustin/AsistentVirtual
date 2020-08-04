@@ -19,4 +19,5 @@ Un simplu asistent virtual care arata vremea bazata pe locatia actuala si care p
 
 ## Contact
 [Facebook](https://www.facebook.com/iustin.vilcu/)
+
 [Linkedin](www.linkedin.com/in/vilcu-iustin-alexandru)
